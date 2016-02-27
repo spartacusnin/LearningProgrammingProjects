@@ -1,0 +1,8 @@
+Notes:
+GitHub
+Clone = copy 
+Pull = pull the latest changes from the server
+Push = push your changes to the server
+Respotory = Github project, that contains one or more visual studio solutions
+fork = creates the new branch of the respository
+commit = to save your changes locally, after you commit you push
